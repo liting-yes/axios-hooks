@@ -18,9 +18,7 @@ React hooks for [axios], with built-in support for server side rendering.
 
 ## Installation
 
-`npm install axios axios-hooks`
-
-> `axios` is a peer dependency and needs to be installed explicitly
+`npm install axios-hooks`
 
 ## Quick Start
 
@@ -52,7 +50,7 @@ function App() {
 
 - [useAxios](#useaxiosurlconfig-options)
 - [configure](#configure-cache-axios-defaultoptions-)
-- [serializeCache](#serializeCache)
+- [serializeCache](#serializecache)
 - [loadCache](#loadcachecache)
 - [makeUseAxios](#makeuseaxios-cache-axios-defaultoptions-)
 
